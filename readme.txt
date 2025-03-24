@@ -3,7 +3,7 @@
 ## 📝 Project Description
 This is an **HTML, CSS, and Bootstrap** project designed to test my front-end development skills. It features a **personal portfolio template** with sections such as **Home, About, Services, Portfolio, Clients, Team, and Contact**.
 
-The project was created by **Abdo gHonim**. You can visit the project [here](https://the-ghonim.github.io/Daniels-site/).
+The project was created by **Abdo gHonim**. You can visit the project [here](https://daniels-bootstrap-portfolio.netlify.app/).
 
 ## 🚀 Technologies Used
 - **HTML5** - For structuring web pages  
